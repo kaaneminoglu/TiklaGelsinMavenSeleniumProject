@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="TiklaGelsinSuit" verbose="1">
+    <test name="TiklaGelsinSuit">
+        <classes>
+            <class name="com.tiklagelsin.scenarios.CheckRestoranList"/>
+        </classes>
+    </test>
+</suite>
